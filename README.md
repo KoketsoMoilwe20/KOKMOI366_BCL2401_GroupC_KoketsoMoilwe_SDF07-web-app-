@@ -1,21 +1,29 @@
-# ckDPrmS3
 
-Quick start:
+# Learning Reflections README 
 
-```
-$ npm install
-$ npm start
-````
+## **6.15 Add To Card App**
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+### Overview
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+### Reflections
 
-Happy Coding!
+#### Areas of Mastery
+
+- **CSS Layout Techniques**: I am slowly getting familiar with CSS. It's fun to learn and play around with different styling techniques. I hope to be confident in using it soon.
+- **Responsive Design**: I can apply different styles accordingly and target different screen sizes using the viewport on HTML.  I can also include touch-user-friendly elements like buttons and text inputs. 
+- **Styling Elements**: I am able to style different style elements using different properties, i am also familiar with a lot of shorthand properties now which makes my code more organized and short.
+
+#### Challenges Faced
+
+- **Import Declarations**
+- **For loops**
+
+#### Areas for Improvement
+
+- **Advanced CSS Properties**
+- **Code Optimization**
+- **Firebase Database**
+
+#### Overall Learning Experience
+Learning JavaScript and Firebase interaction was a challenging experience since I was faced with a lot of new concepts. It took me a lot of time to understand some of the content as I do not like to add code that I don't understand myself. 
