@@ -1,21 +1,28 @@
-# ckDPrmS3
 
-Quick start:
+# Learning Reflections README 
 
-```
-$ npm install
-$ npm start
-````
+## **6.15 CodeSpace Pets Instagram Profile Project**
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+### Overview
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+### Reflections
 
-Happy Coding!
+#### Areas of Mastery
+
+- **CSS Layout Techniques**: 
+- **Responsive Design**: 
+- **Styling Elements**: 
+
+#### Challenges Faced
+
+- **Responsive Design for Smaller Screens**:
+- **Hover and Focus Effects**: 
+
+#### Areas for Improvement
+
+- **Advanced CSS Properties**: 
+- **Code Optimization**: 
+- **Creative Design Choices**:
+
+#### Overall Learning Experience
