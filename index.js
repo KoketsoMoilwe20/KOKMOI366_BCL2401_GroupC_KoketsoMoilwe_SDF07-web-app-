@@ -59,6 +59,7 @@ function clearInputFieldEl() {
     inputFieldEl.value = ""
 }
 
+/* This code below handles adding items to the cart/shopping list*/
 function appendItemToShoppingListEl(item) {
    let itemID = item[0]
    let itemValue = item[1]
@@ -68,9 +69,9 @@ function appendItemToShoppingListEl(item) {
    newEl.textContent = itemValue
    
    newEl.addEventListener("click", function() {
-     let exactLocationOfItemInDB = ref(database, `shoppingList/${itemID}`)
+     let exactLocationOfItemInDB = ref(database, `shoppingList/${itemID}`) /*This line of code constructs a reference to the specific location in the database where the item is stored, using the itemID*/
      
-     /* "remove": This function removes the clicked item from the database location pointed to by "exactLocationOfItemInDB." This crosses off an item or deletes an item on your list. */
+     /* "remove": This function removes the clicked item from the database location pointed to by "exactLocationOfItemInDB." This crosses off an item or deletes an item on my list. */
      remove(exactLocationOfItemInDB)
    })
    
