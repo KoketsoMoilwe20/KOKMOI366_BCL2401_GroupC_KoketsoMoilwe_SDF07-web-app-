@@ -50,7 +50,7 @@ img {
 }
 
 ul {
-    list-style-type: none; /* I used this property to create a visually appealing list that enhances the user's experience */
+    list-style-type: none; /* I used this property to create a visually appealing list that enhances the user's experience. But I did not include any here. */
     padding: 0;
     display: flex;
     flex-wrap: wrap; /* I used the flex-wrap property to wrap the items onto multiple lines. This is more user friendly */
@@ -64,7 +64,7 @@ ul li {
     border-radius: 8px;
     flex-grow: 1; /* This defines how much an element in a flexbox container can grow to fill available space. */
     text-align: center;
-    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2); /* This adds shadow effects around an my shopping list items */ 
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2); /* This adds shadow effects around on my shopping list items */ 
 }
 
 ul li:hover {
