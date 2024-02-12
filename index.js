@@ -45,7 +45,7 @@ onValue(shoppingListInDB, function(snapshot) {
             appendItemToShoppingListEl(currentItem)
         }    
     } else {
-        shoppingListEl.innerHTML = "No items added yet"
+        shoppingListEl.innerHTML = "No items added yet" /*This sets the inner HTML of the element with the id="shopping-list" to display a message indicating that no items are currently added*/
     }
     
     
